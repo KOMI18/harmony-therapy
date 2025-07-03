@@ -17,7 +17,7 @@ export const AboutTherapist = () => {
               className="w-full h-full object-cover"
             />
             <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent p-6">
-              <h3 className="text-white text-xl font-bold">Marie Dupont</h3>
+              <h3 className="text-white text-xl font-bold">Marie Anne</h3>
               <p className="text-white/80">Psychologue clinicienne</p>
             </div>
           </motion.div>
